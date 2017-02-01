@@ -1,0 +1,13 @@
+ECARC Auction Remote Connection Information
+
+VPN IP: 208.157.185.229
+VPN Type : PPTP
+
+User ID : ECARC
+Pass : ECARC2015
+
+MySQL Server Info :
+
+IP : 192.168.250.1
+User : ECARC (all caps or all lowercase)
+Pass : ECARC (must match the same as user)

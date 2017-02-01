@@ -1,0 +1,16 @@
+E:\ECARC_Auction\ECARC_Auction\bin\Debug\ECARC_Auction.exe
+E:\ECARC_Auction\ECARC_Auction\bin\Debug\ECARC_Auction.pdb
+E:\ECARC_Auction\ECARC_Auction\bin\Debug\ECARC_Auction.xml
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Add_Bidders.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Auction_Control.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Login.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Welcome.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Resources.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.exe
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.xml
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.pdb
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Auction_Tape.resources
+E:\ECARC_Auction\ECARC_Auction\obj\x86\Debug\ECARC_Auction.Bidder_Status.resources

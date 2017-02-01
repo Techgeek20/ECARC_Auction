@@ -1,0 +1,23 @@
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe.config
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe.manifest
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.application
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.pdb
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.xml
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\DGV Printer.dll
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\bin\Release\MySql.Data.dll
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Add_Bidders.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Control.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Tape.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Checkout.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Status.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Login.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Welcome.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Resources.resources
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbproj.GenerateResource.Cache
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.TrustInfo.xml
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe.manifest
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.application
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.xml
+d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.pdb
