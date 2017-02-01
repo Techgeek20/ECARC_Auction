@@ -21,3 +21,22 @@ d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auctio
 d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe
 d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.xml
 d:\Users\JWRIII\Documents\Visual Studio 2010\Projects\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.pdb
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\ECARC_Auction.exe.config
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\ECARC_Auction.exe
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\ECARC_Auction.pdb
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\ECARC_Auction.xml
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\DGV Printer.dll
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\bin\Release\MySql.Data.dll
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbprojResolveAssemblyReference.cache
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Add_Bidders.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Control.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Tape.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Checkout.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Status.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Login.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Welcome.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.Resources.resources
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbproj.GenerateResource.Cache
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.xml
+C:\Users\JWRIII\Desktop\ECARC_Auction_Dev_2\ECARC_Auction\obj\x86\Release\ECARC_Auction.pdb
