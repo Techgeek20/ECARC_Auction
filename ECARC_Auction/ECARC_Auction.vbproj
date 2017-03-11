@@ -16,7 +16,7 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>d:\Users\JWRIII\Desktop\ECARC_Auction\</PublishUrl>
+    <PublishUrl>d:\Users\JWRIII\Desktop\ECARC_Auction_2017\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -29,8 +29,7 @@
     <ProductName>ECARC_Auction</ProductName>
     <PublisherName>John Robinson III</PublisherName>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <AutorunEnabled>true</AutorunEnabled>
-    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationRevision>6</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -78,13 +77,13 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>46F836F8F534586F73B16D7FABB1612761B56B78</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F567DEDCFE457BEAFF8CDD1DA1B4F3FF9877AC5F</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>ECARC_Auction_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>ECARC_Auction_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <GenerateManifests>false</GenerateManifests>
+    <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
@@ -222,6 +221,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ECARC_Auction_1_TemporaryKey.pfx" />
     <None Include="ECARC_Auction_TemporaryKey.pfx" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
