@@ -205,7 +205,7 @@ Public Class Bidder_Checkout
                     Dim Final_Total As String = "Bidder needs to pay : $" & CDec(txt_Chkout_Buyer_Total.Text) - CDec(txt_Seller_Payout.Text)
                     txt_Chkout_Final_Total.Text = Final_Total
                 ElseIf txt_Seller_Payout.Text > txt_Chkout_Buyer_Total.Text Then
-                    Dim Final_Total As String = "Bidder is being paid : $" & CDec(txt_Seller_Payout.Text) - CDec(txt_Buyer_Total.Text)
+                    Dim Final_Total As String = "Bidder is being paid : $" & CDec(txt_Seller_Payout.Text) - CDec(txt_Chkout_Buyer_Total.Text)
                     txt_Chkout_Final_Total.Text = Final_Total
                 ElseIf txt_Seller_Payout.Text = txt_Chkout_Buyer_Total.Text Then
                     Dim Final_Total As String = "Bidder does not pay. Bidder also is not paid."
@@ -274,7 +274,7 @@ Public Class Bidder_Checkout
             Printer.PrintDataGridView(Me.dtagd_Buyer_Listing)
             Printer.PageSettings.Landscape = True
         End If
-        
+
         If Did_Sell = True Then
             Dim Printer2 = New DGVPrinter
             Printer2.Title = "Seller Invoice"
@@ -289,7 +289,7 @@ Public Class Bidder_Checkout
             Printer2.PrintDataGridView(Me.dtagd_Seller_Listing)
             Printer2.PageSettings.Landscape = True
         End If
-      
+
     End Sub
 
 End Class

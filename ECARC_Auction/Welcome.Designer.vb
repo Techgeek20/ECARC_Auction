@@ -31,7 +31,9 @@ Partial Class Welcome
         Me.btn_Add_Bidder = New System.Windows.Forms.Button()
         Me.grpbx_DB_Mgmt = New System.Windows.Forms.GroupBox()
         Me.btn_Exit = New System.Windows.Forms.Button()
+        Me.btn_Create_Tables = New System.Windows.Forms.Button()
         Me.grpbx_Auction_Mgmt.SuspendLayout()
+        Me.grpbx_DB_Mgmt.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
@@ -105,6 +107,7 @@ Partial Class Welcome
         '
         'grpbx_DB_Mgmt
         '
+        Me.grpbx_DB_Mgmt.Controls.Add(Me.btn_Create_Tables)
         Me.grpbx_DB_Mgmt.Location = New System.Drawing.Point(96, 206)
         Me.grpbx_DB_Mgmt.Name = "grpbx_DB_Mgmt"
         Me.grpbx_DB_Mgmt.Size = New System.Drawing.Size(518, 93)
@@ -121,6 +124,15 @@ Partial Class Welcome
         Me.btn_Exit.Text = "Exit"
         Me.btn_Exit.UseVisualStyleBackColor = True
         '
+        'btn_Create_Tables
+        '
+        Me.btn_Create_Tables.Location = New System.Drawing.Point(31, 42)
+        Me.btn_Create_Tables.Name = "btn_Create_Tables"
+        Me.btn_Create_Tables.Size = New System.Drawing.Size(142, 23)
+        Me.btn_Create_Tables.TabIndex = 0
+        Me.btn_Create_Tables.Text = "Create this year's tables"
+        Me.btn_Create_Tables.UseVisualStyleBackColor = True
+        '
         'Welcome
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -134,6 +146,7 @@ Partial Class Welcome
         Me.Name = "Welcome"
         Me.Text = "ECARC Auction Welcome"
         Me.grpbx_Auction_Mgmt.ResumeLayout(False)
+        Me.grpbx_DB_Mgmt.ResumeLayout(False)
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -147,4 +160,5 @@ Partial Class Welcome
     Friend WithEvents btn_Add_Bidder As System.Windows.Forms.Button
     Friend WithEvents grpbx_DB_Mgmt As System.Windows.Forms.GroupBox
     Friend WithEvents btn_Exit As System.Windows.Forms.Button
+    Friend WithEvents btn_Create_Tables As Button
 End Class

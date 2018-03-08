@@ -65,3 +65,27 @@ d:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECA
 d:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.xml
 d:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.pdb
 d:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbprojResolveAssemblyReference.cache
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe.config
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe.manifest
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.application
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.exe
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.pdb
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\ECARC_Auction.xml
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\bin\Release\DGV Printer.dll
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Add_Bidders.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Control.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Auction_Tape.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Checkout.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Bidder_Status.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Login.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Welcome.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.Resources.resources
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbproj.GenerateResource.cache
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbproj.CoreCompileInputs.cache
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.TrustInfo.xml
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe.manifest
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.application
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.vbproj.CopyComplete
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.exe
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.xml
+C:\Users\JWRIII\Documents\GitHub\ECARC_Auction\ECARC_Auction\obj\x86\Release\ECARC_Auction.pdb

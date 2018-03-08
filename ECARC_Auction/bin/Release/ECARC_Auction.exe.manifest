@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECARC_Auction.exe" size="67488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECARC_Auction.exe" size="69632">
       <assemblyIdentity name="ECARC_Auction" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>25jE/qdQxdnekWlWXkU1Z3ve0HE=</dsig:DigestValue>
+        <dsig:DigestValue>7gNO7T7DI/SRtulmC1rFsp9LX2M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
